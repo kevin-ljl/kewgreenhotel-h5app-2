@@ -57,8 +57,6 @@
 				<img class="button" src="images/p2/button.png" alt="">
 				<img src="images/p4/1.png" alt="" class="e-1 next ani" swiper-animate-effect="bounceInLeft" swiper-animate-delay="0.2s">
 				<img src="images/p4/3.png" alt="" class="e-2 next1 ani" swiper-animate-effect="bounceInLeft" swiper-animate-delay="0.6s">
-				<img src="images/p4/2.png" alt="" class="e-3 next ani" swiper-animate-effect="bounceInRight" swiper-animate-delay="0.4s">
-				<img src="images/p4/4.png" alt="" class="e-4 next ani" swiper-animate-effect="bounceInRight" swiper-animate-delay="0.8s">
 			</div>	
 			<div class="swiper-slide p5">
 			    <div class="success">

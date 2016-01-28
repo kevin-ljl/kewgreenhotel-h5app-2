@@ -113,9 +113,6 @@ app.template.swiper.bind = function(){
         speed:500,
         lazyLoading : true,
         lazyLoadingInPrevNext : true,
-        // nextButton: '.swiper-button-next',
-        // prevButton: '.swiper-button-prev',
-        //direction : 'vertical',
         onInit: function(swiper){ //Swiper2.x的初始化是onFirstInit
             swiperAnimateCache(swiper); //隐藏动画元素 
             swiperAnimate(swiper); //初始化完成开始动画 
@@ -334,11 +331,6 @@ app.audio.changesong = function(src){
     if(app.audio.status == "play")
        app.audio.play(); 
 };
-// app.audio.play_tap = function(){
-//     if(app.audio.status == "play")
-//         $("#audio-player-tap")[0].play();
-// };
-
 /*-- p1
 ====================================================== */
 app.p1 = function(){};
